@@ -11,6 +11,7 @@ Nova is an AI-powered compiler and execution engine designed to eliminate syntax
 * **Instant Execution Plans:** Describe your logic and Nova generates a verified implementation pipeline.
 * **Zero Debugging Loops:** Spend less time fixing typos and more time building core features.
 
+<!---
 ### Quick Start
 
 ```bash
@@ -20,3 +21,4 @@ curl -fsSL https://nova.dev | sh
 # Compile and run your code instantly
 nova run main.src
 ```
+-->
