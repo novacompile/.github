@@ -1,2 +1,9 @@
 # .github
-Config file for NovaCompile
+
+Config files for NovaCompile
+
+---
+
+<div align="right">
+  <sub>novacompile</sub>
+</div>
