@@ -36,5 +36,5 @@ export GROQ_API_KEY="your-actual-groq-api-key-here"
 nova your_script.no
 ```
 
-> [!INFO]
+> [!NOTE]
 > To launch the shell, just run `nova`, after you have set it up correctly.
