@@ -18,17 +18,16 @@ Nova is an AI-powered compiler and execution engine designed to eliminate syntax
 
 2. Run this install script:
 ```bash
-git clone htts://github.com/novacompile/compiler.git
-pip install requests
-alias nova="python $(pwd)/src/transpiler.py"
+cd ~
+mkdir .novacompile
+cd .novacompile
+git clone https://github.com/novacompile/compiler.git
+cd compiler
 ```
 
-> [!TIP]
-> To make this permanent, append the alias to your ~/.bashrc or ~/.zshrc profile.
-
-3. Export your API key to your enviroment:
+3. Run the setup script (have your API key read):
 ```bash
-export GROQ_API_KEY="your-actual-groq-api-key-here"
+bash setup.sh
 ```
 
 4. When your ready to compile, simply run:
@@ -37,4 +36,4 @@ nova your_script.no
 ```
 
 > [!NOTE]
-> To launch the shell, just run `nova`, after you have set it up correctly.
+> To launch the shell, just run `nova`, to launch the chat agent, run `nova -c`; after you have set it up correctly. To view all flags run `nova --flags`.
