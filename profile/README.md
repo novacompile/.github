@@ -37,3 +37,9 @@ nova your_script.no
 
 > [!NOTE]
 > To launch the shell, just run `nova`, to launch the chat agent, run `nova -c`; after you have set it up correctly. To view all flags run `nova --flags`.
+
+---
+
+## Agova
+
+Agova is a 
