@@ -42,4 +42,4 @@ nova your_script.no
 
 ## Agova
 
-Agova is a 
+Agova is a robust agent swarm and orchestrator, for advanced prompting and tasks. Head of over to the [Agova repository](https://github.com/novacompile/agova), to get started.
