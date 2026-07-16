@@ -42,7 +42,7 @@ nova your_script.no
 
 ## Other Tools
 
-A selection of other tools created by Nova.
+**A selection of other tools created by Nova.**
 
 ### Agova
 
