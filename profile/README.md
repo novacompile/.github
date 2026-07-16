@@ -18,14 +18,10 @@ Nova is an AI-powered compiler and execution engine designed to eliminate syntax
 
 2. Run this install script:
 ```bash
-cd ~
-mkdir .novacompile
-cd .novacompile
-git clone https://github.com/novacompile/compiler.git
-cd compiler
+git clone https://github.com/novacompile/compiler.git ~/.novacompile/compiler && cd ~/.novacompile/compiler
 ```
 
-3. Run the setup script (have your API key read):
+3. Run the setup script (have your API key ready):
 ```bash
 bash setup.sh
 ```
