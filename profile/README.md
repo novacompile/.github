@@ -47,3 +47,7 @@ A selection of other tools created by Nova.
 ### Agova
 
 Agova is a robust agent swarm and orchestrator, for advanced prompting and tasks. Head of over to the [Agova repository](https://github.com/novacompile/agova), to get started.
+
+### kebab-os
+
+Not inherently from Nova, but another selection of tools created by @7aimez, including a python operating system GUI and window manager, endpoint-based terminal tools and API, and an ubuntu-based linux distro. Find all of this and more at [kebab-os](https://github.com/kebab-os).
